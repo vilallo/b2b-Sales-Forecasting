@@ -59,7 +59,7 @@ XGBoost was the strongest model overall. Choosing the best model per business un
 ## Repository structure
 
 ```
-b2b-sales-forecasting/
+b2b-Sales-Forecasting/
 ├── sales_forecasting.ipynb   # EDA, preparation, per-unit modelling, forecast
 ├── requirements.txt
 └── README.md
