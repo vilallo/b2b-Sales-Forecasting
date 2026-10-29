@@ -5,7 +5,9 @@
 ![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32)
 ![Optuna](https://img.shields.io/badge/Optuna-2C5BB4)
 
-A machine-learning pipeline that forecasts **10 months of sales for each of 14 business units** of an industrial technology company (Siemens). It replaces a manual, error-prone forecasting process. Historical sales are combined with global macroeconomic indicators.
+A machine-learning pipeline that forecasts **10 months of sales for each of 14 business units** of a multinational industrial technology company. It replaces a manual, error-prone forecasting process. Historical sales are combined with global macroeconomic indicators.
+
+> **Confidentiality:** This project was developed for a real company. The company's name and its data have been hidden for confidentiality reasons.
 
 ## Problem
 
